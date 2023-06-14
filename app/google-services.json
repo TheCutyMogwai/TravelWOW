@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "78160795645",
+    "project_id": "travelapp-87f1a",
+    "storage_bucket": "travelapp-87f1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78160795645:android:4f4d6d34466b18cbdceb94",
+        "android_client_info": {
+          "package_name": "ru.scopatom.travelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78160795645-ug5vp34sfvpcnengg6qooh1ro3vmdiif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvxFg0wY8MSV7ngUUQGn2VsmF6_H2ET_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78160795645-ug5vp34sfvpcnengg6qooh1ro3vmdiif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

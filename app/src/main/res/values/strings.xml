@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TravelApp</string>
+    <string name="title_clients">Клиенты</string>
+    <string name="title_requests">Заявки</string>
+    <string name="title_tours">Туры</string>
+    <string name="edittext_email">Почта</string>
+    <string name="edittext_password">Пароль</string>
+    <string name="sign_in_button">Войти</string>
+    <string name="auth_text">Авторизация</string>
+</resources>
